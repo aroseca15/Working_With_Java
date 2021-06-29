@@ -29,7 +29,9 @@ To be determined.
 
 ## Professional Profiles and Email:
 GitHub Name: aroseca15
+
 Linkedin: https://www.linkedin.com/in/amanda-macdonald-/
+
 Contact Email: aroseca15@gmail.com
 
 ## Contact for Questions:
