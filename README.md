@@ -2,7 +2,7 @@
 
 ## Description:
 This is a collective project in that I will have multiple folders. Each folder will have the title of the place or class that I have gathered knowledge from. The purpose of the folder names is to give ongoing credit to the platforms and instructors that I have learned from. The purpose of this collective project  is to learn Java in every aspect possible. 
-
+ 
 ### Deployment Link: Code Samples
 
 
